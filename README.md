@@ -2,6 +2,8 @@
 
 This is just copying the Cornerstone example from here: [Basic Stack Viewport Usage](https://www.cornerstonejs.org/live-examples/stackbasic).
 
+I wasn't able to import some of the utilities that this example uses, even though they are present in my `node_modules` directory. Probably a webpack config issue or something. So in this demo I just manually copy-pasted the necessary util code, which makes this a bit messy to read.
+
 ## Run
 
 ```bash
